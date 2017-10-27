@@ -1,0 +1,12 @@
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\bin\Debug\GenericSOAPClient.exe.config
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\bin\Debug\GenericSOAPClient.exe
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\bin\Debug\GenericSOAPClient.pdb
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\bin\Debug\GenericSOAPClient.xml
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\obj\Debug\GenericSOAPClient.vbprojResolveAssemblyReference.cache
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\obj\Debug\GenericSOAPClient.Resources.resources
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\obj\Debug\GenericSOAPClient.vbproj.GenerateResource.Cache
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\obj\Debug\GenericSOAPClient.vbproj.CoreCompileInputs.cache
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\obj\Debug\GenericSOAPClient.exe
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\obj\Debug\GenericSOAPClient.xml
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\obj\Debug\GenericSOAPClient.pdb
+C:\Users\bthill\AppData\Local\Temporary Projects\GenericSOAPClient\obj\Debug\GenericSOAPClient.Form1.resources
